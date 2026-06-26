@@ -1,22 +1,33 @@
 /*
-Topic: Parameters And Arguments
-Author: Imran
+◆──────────────────────────◆
+04. Parameters And Arguments
+◆──────────────────────────◆
 
-Parameter = Variable in function definition
-Argument = Value passed during function call
+💡 Remember
+Parameter receives,
+Argument passes.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Function Definition
 void show(int x)
 {
     cout << x;
 }
 
+// Main Function
 int main()
 {
+    // Function Call
     show(5);
 
     return 0;
 }
+
+/*
+Output:
+5
+*/

@@ -1,6 +1,6 @@
 /*
 ◆──────────────────────────◆
-      26.0. Function Prototype
+26. Function Prototype
 ◆──────────────────────────◆
 
 💡 Remember
@@ -12,12 +12,13 @@ Definition = Implementation
 #include <iostream>
 using namespace std;
 
-// Prototype
+// Function Prototype
 void greet();
 
 // Main Function
 int main()
 {
+    // Function Call
     greet();
 
     return 0;
@@ -28,3 +29,8 @@ void greet()
 {
     cout << "Hello, Imran!";
 }
+
+/*
+Output:
+Hello, Imran!
+*/

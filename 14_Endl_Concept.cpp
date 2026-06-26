@@ -1,13 +1,18 @@
 /*
-Topic: endl
-Author: Imran
+◆──────────────────────────◆
+14. endl
+◆──────────────────────────◆
 
-endl moves cursor to next line
+💡 Remember
+endl moves the cursor
+to the next line.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Main Function
 int main()
 {
     cout << "A";
@@ -19,3 +24,9 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+AB
+C
+*/

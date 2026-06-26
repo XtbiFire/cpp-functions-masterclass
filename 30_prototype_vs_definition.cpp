@@ -1,6 +1,6 @@
 /*
 ◆──────────────────────────◆
-   30. Prototype vs Definition
+30. Prototype vs Definition
 ◆──────────────────────────◆
 
 💡 Remember
@@ -12,12 +12,13 @@ Definition = Has Body
 #include <iostream>
 using namespace std;
 
-// Prototype
+// Function Prototype
 int square(int);
 
 // Main Function
 int main()
 {
+    // Function Call
     cout << square(5);
 
     return 0;
@@ -28,3 +29,8 @@ int square(int x)
 {
     return x * x;
 }
+
+/*
+Output:
+25
+*/

@@ -1,22 +1,25 @@
 /*
 ◆──────────────────────────◆
-      27. What Is a Prototype
+27. What Is a Prototype
 ◆──────────────────────────◆
 
 💡 Remember
-Prototype = Function Declaration.
+Prototype is a function
+declaration placed before
+its definition.
 
 */
 
 #include <iostream>
 using namespace std;
 
-// Prototype
+// Function Prototype
 void display();
 
 // Main Function
 int main()
 {
+    // Function Call
     display();
 
     return 0;
@@ -27,3 +30,8 @@ void display()
 {
     cout << "Prototype Example";
 }
+
+/*
+Output:
+Prototype Example
+*/

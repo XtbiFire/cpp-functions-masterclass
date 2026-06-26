@@ -1,22 +1,24 @@
 /*
 ◆──────────────────────────◆
-   29. Why Compiler Needs It
+29. Why Compiler Needs It
 ◆──────────────────────────◆
 
 💡 Remember
-Compiler reads code from top to bottom.
+The compiler reads code
+from top to bottom.
 
 */
 
 #include <iostream>
 using namespace std;
 
-// Prototype
+// Function Prototype
 void welcome();
 
 // Main Function
 int main()
 {
+    // Function Call
     welcome();
 
     return 0;
@@ -27,3 +29,8 @@ void welcome()
 {
     cout << "Compiler already knows me!";
 }
+
+/*
+Output:
+Compiler already knows me!
+*/

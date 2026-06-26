@@ -1,15 +1,19 @@
 /*
-Topic: Local Variable
-Author: Imran
+◆──────────────────────────◆
+18. Local Variable
+◆──────────────────────────◆
 
-Variable created inside a function
-is called local variable.
-It can only be used inside that function.
+💡 Remember
+A local variable can be
+used only inside the
+function where it is created.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Function Definition
 void show()
 {
     int x = 10;
@@ -17,9 +21,16 @@ void show()
     cout << x;
 }
 
+// Main Function
 int main()
 {
+    // Function Call
     show();
 
     return 0;
 }
+
+/*
+Output:
+10
+*/

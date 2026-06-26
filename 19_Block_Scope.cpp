@@ -1,16 +1,22 @@
 /*
-Topic: Block Scope
-Author: Imran
+◆──────────────────────────◆
+19. Block Scope
+◆──────────────────────────◆
 
-Variable inside a block exists
-only inside that block.
+💡 Remember
+A variable declared inside
+a block can be used only
+within that block.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Main Function
 int main()
 {
+    // Block
     {
         int x = 5;
 
@@ -19,3 +25,8 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+5
+*/

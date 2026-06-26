@@ -1,15 +1,19 @@
 /*
-Topic: Variable Lifetime
-Author: Imran
+◆──────────────────────────◆
+20. Variable Lifetime
+◆──────────────────────────◆
 
-Local variable is created when
-function starts and destroyed when
-function ends.
+💡 Remember
+A local variable is created
+when the function starts
+and destroyed when it ends.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Function Definition
 void show()
 {
     int x = 10;
@@ -17,10 +21,17 @@ void show()
     cout << x;
 }
 
+// Main Function
 int main()
 {
+    // Function Calls
     show();
     show();
 
     return 0;
 }
+
+/*
+Output:
+1010
+*/

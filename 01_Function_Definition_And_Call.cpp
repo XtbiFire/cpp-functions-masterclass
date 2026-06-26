@@ -1,9 +1,12 @@
 /*
-Topic: Function Definition And Call
-Author: Imran
+◆──────────────────────────◆
+01. Function Definition And Call
+◆──────────────────────────◆
 
-Concept:
-Create a function and call it from main().
+💡 Remember
+Define the function first,
+then call it from main().
+
 */
 
 #include <iostream>
@@ -15,6 +18,7 @@ void hello()
     cout << "Hello";
 }
 
+// Main Function
 int main()
 {
     // Function Call
@@ -22,3 +26,8 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Hello
+*/

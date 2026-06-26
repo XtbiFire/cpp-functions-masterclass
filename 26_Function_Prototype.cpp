@@ -1,9 +1,13 @@
 /*
-Topic: Function Prototype
-Author: Imran
+◆──────────────────────────◆
+26. Function Prototype
+◆──────────────────────────◆
 
-Prototype tells compiler about
-function before its definition.
+💡 Remember
+Prototype tells compiler
+about function before
+its definition.
+
 */
 
 #include <iostream>
@@ -14,8 +18,10 @@ using namespace std;
 int add(int, int);
 
 
+// Main Function
 int main()
 {
+    // Function Call
     cout << add(5, 3);
 
     return 0;
@@ -27,3 +33,8 @@ int add(int a, int b)
 {
     return a + b;
 }
+
+/*
+Output:
+8
+*/

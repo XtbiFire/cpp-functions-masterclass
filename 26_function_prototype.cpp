@@ -1,6 +1,6 @@
 /*
 ◆──────────────────────────◆
-      26. Function Prototype
+      26.0. Function Prototype
 ◆──────────────────────────◆
 
 💡 Remember

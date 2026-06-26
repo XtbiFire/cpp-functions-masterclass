@@ -1,13 +1,18 @@
 /*
-Topic: Return Stops Function
-Author: Imran
+◆──────────────────────────◆
+15. Return Stops Function
+◆──────────────────────────◆
 
-Code after return never executes.
+💡 Remember
+Code after return
+never executes.
+
 */
 
 #include <iostream>
 using namespace std;
 
+// Function Definition
 int test()
 {
     cout << "A";
@@ -17,9 +22,16 @@ int test()
     cout << "B";
 }
 
+// Main Function
 int main()
 {
+    // Function Call
     test();
 
     return 0;
 }
+
+/*
+Output:
+A
+*/

@@ -1,6 +1,6 @@
-# 📘 C++ Function Masterclass
+# 🌐 C++ Function Masterclass
 
-## 🛤️ Learning Levels
+## 👾 Learning Levels
 
 🌱 Level 1 • Function Basics (01-18)
 
@@ -13,3 +13,5 @@
 🎯 Level 5 • Default Arguments (51-69)
 
 🏆 Level 6 • Return by Value (70-79)
+
+🍷 Level 7 • Pass by reference (71-89)

@@ -10,7 +10,7 @@
 
 ⚡ Level 4 • Function Overloading (37-50)
 
-🎯 Level 5 • Default Arguments (51-69)
+🎯 Level 5 • Default Arguments (51-60)
 
 🏆 Level 6 • Return by Value (61-70)
 

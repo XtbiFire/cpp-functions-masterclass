@@ -4,7 +4,7 @@
 
 🌱 Level 1 • Function Basics (01-18)
 
-🌿 Level 2 • Scope & Variable (19-24)
+🌿 Level 2 • Scope & Variable (19-25)
 
 🌳 Level 3 • Function Prototypes (26-38)
 

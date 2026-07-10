@@ -6,7 +6,7 @@
 
 🌿 Level 2 • Scope & Variable (19-24)
 
-🌳 Level 3 • Function Prototypes (25-36)
+🌳 Level 3 • Function Prototypes (26-38)
 
 ⚡ Level 4 • Function Overloading (39-50)
 

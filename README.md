@@ -12,6 +12,6 @@
 
 🎯 Level 5 • Default Arguments (51-69)
 
-🏆 Level 6 • Return by Value (70-79)
+🏆 Level 6 • Return by Value (61-70)
 
-🍷 Level 7 • Pass by reference (71-89)
+🍷 Level 7 • Pass by Value (71-)
